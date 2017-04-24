@@ -10,4 +10,4 @@ data. CollegeClassifier class contains methods so that users can enter a new stu
 class describes everything student. Containting mutiple constructors to define different kinds of students. The student class also contains
 methods so that other classes can get and set the various attributes of student. The student checker class contains the methods to check,
 verify, and save a students information. The students information is saved in to an arraylist or an external text file located in the
-423_Arrohead\ directory.
+423_Arrowhead\ directory.
